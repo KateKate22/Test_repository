@@ -3,7 +3,7 @@
 =======
 988989889
 >>>>>>> 52aae37b88379cd9d4a119339b8d9af0d68100b7
-commit test1212
+commit test1212 UPDATE
 dfsdf
 ADD NEW TEXT CONTROL
 MORE NEW TEXT
